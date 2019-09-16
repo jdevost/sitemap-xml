@@ -6,7 +6,7 @@
     xmlns:coveo="https://www.coveo.com/schemas/metadata">
    <url>
         <loc>https://docs.coveo.com/en/1616/cloud-v2-administrators/add-or-edit-an-amazon-s3-source</loc>
-        <lastmod>2005-01-01</lastmod>
+        <lastmod>2019-01-01</lastmod>
         <changefreq>monthly</changefreq>
         <coveo:metadata>
             <connectorname>Amazon S3</connectorname>

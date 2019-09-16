@@ -12,6 +12,7 @@
             <connectorname>Amazon S3</connectorname>
             <incrementalrefresh>no</incrementalrefresh>
             <maturity>medium</maturity>
+            <tags />
         </coveo:metadata>
    </url> 
 </urlset>
